@@ -1,4 +1,4 @@
-  =>  Template Name    : SafetyFirst - Security Guard Website Template
+  =>  Template Name    : SecureX - Security Guard Website Template
 
   =>  Template Link    : https://htmlcodex.com/security-guard-website-template
 
